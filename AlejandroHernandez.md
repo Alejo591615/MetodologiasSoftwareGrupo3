@@ -6,7 +6,7 @@
 
 Tambien se puede hacer de la siguiente forma: 
 
-- git branch AlejandroHernandez
+- git branch AlejandroHernandez >
 git checkout AlejandroHernandez
 
 ## 2. Crear commit en la misma rama
