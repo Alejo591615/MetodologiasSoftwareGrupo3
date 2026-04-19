@@ -11,8 +11,7 @@ git checkout AlejandroHernandez
 
 ## 2. Crear commit en la misma rama
 
-- git add .
-git commit -m "Agrega archivo de Alejandro Hernández"
+- git add . > git commit -m "Agrega archivo de Alejandro Hernández"
 
 ## 3. Subit rama a Git
 
