@@ -6,3 +6,4 @@ Grupo3
 ## Integrantes:
 - Jose Londoño
 - Alejandro Hernández
+- Miguel Angel Motta Barrero
